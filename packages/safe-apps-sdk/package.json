@@ -1,5 +1,5 @@
 {
-  "name": "@gnosis.pm/safe-apps-sdk",
+  "name": "@kingkongswap/safe-apps-sdk",
   "version": "2.0.0",
   "description": "SDK developed to integrate third-party apps with Safe-Multisig app.",
   "main": "dist/src/index.js",
